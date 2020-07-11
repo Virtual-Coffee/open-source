@@ -25,7 +25,7 @@ That's it! From there, current members can help you get acclimated, and see how 
 
 # Licensing
 
-Coming Soon!
+Coming soon!
 
 # Acknowledgments
 
