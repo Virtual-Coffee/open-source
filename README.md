@@ -23,6 +23,12 @@ Anyone wishing to contribute simply has to:
 
 That's it! From there, current members can help you get acclimated, and see how you can start contributing to the project.
 
+# Projects
+
+Projects related to the Virtual Coffee community that you can contribute to. 
+
+* [Footnote.](https://github.com/cambardell/footnote2) An iOS app written with Swift and SwiftUI. Current tasks include accessibility support and supporting multiple platforms, although new features of any kind are encouraged. 
+
 # Licensing
 
 Coming soon!
