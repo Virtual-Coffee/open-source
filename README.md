@@ -16,12 +16,7 @@ As of right now, this repo is simply a hosting place for resources and examples,
 
 Being able to contribute is one of the core reasons the Virtual Coffee folks wanted to create this space.
 
-Anyone wishing to contribute simply has to:
-1. Attend a virtual coffee zoom meeting (held every Tuesday and Thursday)
-2. Join the Virtual Coffee slack group (via a link provided during the zoom meetings)
-3. Join the open source channel in the slack group!
-
-That's it! From there, current members can help you get acclimated, and see how you can start contributing to the project.
+See this project's [contributions file](https://github.com/Virtual-Coffee/open-source/blob/main/Contributing.md) for a full breakdown of how you can add to the repository!
 
 # Projects
 
