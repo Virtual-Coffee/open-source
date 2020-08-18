@@ -16,13 +16,17 @@ As of right now, this repo is simply a hosting place for resources and examples,
 
 Being able to contribute is one of the core reasons the Virtual Coffee folks wanted to create this space.
 
-See this project's [contributions file](https://github.com/Virtual-Coffee/open-source/blob/main/Contributing.md) for a full breakdown of how you can add to the repository!
+See this project's [contributions file](https://github.com/Virtual-Coffee/open-source/blob/main/CONTRIBUTING.md) for a full breakdown of how you can add to the repository!
 
 # Projects
 
 Projects related to the Virtual Coffee community that you can contribute to. 
 
 * [Footnote.](https://github.com/cambardell/footnote2) An iOS app written with Swift and SwiftUI. Current tasks include accessibility support and supporting multiple platforms, although new features of any kind are encouraged. 
+
+* [Gisla](https://github.com/jwcarman/gisla) It’s a distributed saga coordinator app created by the illustrious James Carman.
+
+* [Free Code Camp Newbie Friendly Issues](https://github.com/freeCodeCamp/chapter/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22help+wanted%22) Free Code Camp maintains a nice list of issues new folks can get started on. 
 
 # Licensing
 
