@@ -38,10 +38,10 @@ Projects related to the Virtual Coffee community or recommended by virtual coffe
 
 * [Ifme](https://github.com/ifmeorg/ifme) Free, open source mental health communication web app to share experiences with loved ones.
 
-# Licensing
+* [Good First Issues With Next.js](https://dev.to/github/good-first-issues-with-next-js-hfg) Highlighting good issues for first timers in the Next.js repo. Suggested by Nick Taylor.
 
-Coming soon!
+* [Free Code Camp](https://github.com/freeCodeCamp/chapter/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22help+wanted%22) Beginner Issues in the Free Code Camp open source repository, submitted by Bekah Hawrot Weigel
 
 # Acknowledgments
 
-Coming soon!
+A special thank you to all the members of the Virtual Coffee community who donate their time, labour, and love to making the tech community a better place.
