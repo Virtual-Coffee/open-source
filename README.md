@@ -18,20 +18,30 @@ Being able to contribute is one of the core reasons the Virtual Coffee folks wan
 
 See this project's [contributions file](https://github.com/Virtual-Coffee/open-source/blob/main/CONTRIBUTING.md) for a full breakdown of how you can add to the repository!
 
+Also check out the wonderful article [How to contribute to open source](https://dev.to/janessatran/a-beginner-s-guide-to-contributing-to-open-source-4fen) by Janessa Tran
+
 # Projects
 
-Projects related to the Virtual Coffee community that you can contribute to. 
+Projects related to the Virtual Coffee community or recommended by virtual coffee members that you can contribute to. 
 
 * [Footnote.](https://github.com/cambardell/footnote2) An iOS app written with Swift and SwiftUI. Current tasks include accessibility support and supporting multiple platforms, although new features of any kind are encouraged. 
 
 * [Gisla](https://github.com/jwcarman/gisla) It’s a distributed saga coordinator app created by the illustrious James Carman.
 
-* [Free Code Camp Newbie Friendly Issues](https://github.com/freeCodeCamp/chapter/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22help+wanted%22) Free Code Camp maintains a nice list of issues new folks can get started on. 
+* [Free Code Camp Newbie Friendly Issues](https://github.com/freeCodeCamp/chapter/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22help+wanted%22) Free Code Camp maintains a nice list of issues new folks can get started on.
 
-# Licensing
+* [Moms-Learn-Tech](https://github.com/BekahHW/Moms-Learn-Tech) Resources for moms coming back into the tech field or learning to code for the first time by Bekah Hawrot Weigel
 
-Coming soon!
+* [Horcrux](https://github.com/jesseduffield/horcrux/issues) Split your file into encrypted fragments so that you don't need to remember a passcode. Created by Jesse Duffield and recommended by Gant Labourde.
+
+* [Forem Browser Extension](https://github.com/forem/forem-browser-extension) The Forem browser extension which allows users to seamlessly navigate between communities. Submitted by Nick Taylor
+
+* [Ifme](https://github.com/ifmeorg/ifme) Free, open source mental health communication web app to share experiences with loved ones.
+
+* [Good First Issues With Next.js](https://dev.to/github/good-first-issues-with-next-js-hfg) Highlighting good issues for first timers in the Next.js repo. Suggested by Nick Taylor.
+
+* [Free Code Camp](https://github.com/freeCodeCamp/chapter/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22help+wanted%22) Beginner Issues in the Free Code Camp open source repository, submitted by Bekah Hawrot Weigel
 
 # Acknowledgments
 
-Coming soon!
+A special thank you to all the members of the Virtual Coffee community who donate their time, labour, and love to making the tech community a better place.
