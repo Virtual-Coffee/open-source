@@ -50,3 +50,9 @@ To contribute add a resource on the list below using this template.
 ### JavaScript
 
 - [Moment](https://momentjs.com/) - parse, manipulate, format and display dates in JavaScript. Add by [Vanessa Poppe](https://github.com/vanessacor)
+
+### Learning to Learn
+
+- [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) - How to fine-tune the internal monologue that scores every aspect of our lives, from leadership to love. Add by [BekahHW](https://github.com/bekahhw) via [NickT](https://github.com/nickytonline)
+
+- [How to Teach Code](https://welearncode.com/teaching-code/) - ways you can teach code, how to coach students on a learning mindset, the mechanics of teaching a lesson, and oodles of tips for teaching. Add by [BekahHW](https://github.com/bekahhw) via [NickT](https://github.com/nickytonline)
