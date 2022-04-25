@@ -42,6 +42,8 @@ Projects related to the Virtual Coffee community or recommended by virtual coffe
 
 * [Free Code Camp](https://github.com/freeCodeCamp/chapter/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22help+wanted%22) Beginner Issues in the Free Code Camp open source repository, submitted by Bekah Hawrot Weigel
 
+* [Drone](https://github.com/harness/drone) and [Drone Documentation](https://github.com/drone/docs) Most Starred OSS Continuous Integration tool created by Brad Rydzewski. Suggested by Marie Antons, reach out directly on Slack or join the [Harness Community Slack](https://join.slack.com/t/harnesscommunity/shared_invite/zt-y4hdqh7p-RVuEQyIl5Hcx4Ck8VCvzBw) to get assistance contributing
+
 # Acknowledgments
 
 A special thank you to all the members of the Virtual Coffee community who donate their time, labour, and love to making the tech community a better place.
